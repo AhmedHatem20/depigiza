@@ -1,0 +1,17 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Isometra&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap'); */
+/* font-family: "Isometra", serif; */
+/* font-family: "Rubik", sans-serif; */
+
+
+
+   /* Default height for small devices */
+    #intro-example {
+      height: 400px;
+    }
+
+    /* Height for devices larger than 992px */
+    @media (min-width: 992px) {
+      #intro-example {
+        height: 600px;
+      }
+    }
